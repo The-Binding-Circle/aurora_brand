@@ -7,6 +7,7 @@ app_license = "MIT"
 
 app_logo_url = "/assets/aurora_brand/images/logo.svg"
 app_include_css = "/assets/aurora_brand/css/brand.css"
+web_include_css = "/assets/aurora_brand/css/brand.css"
 
 website_context = {
     "favicon": "/assets/aurora_brand/images/favicon.svg",
