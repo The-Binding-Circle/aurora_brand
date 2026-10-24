@@ -232,3 +232,15 @@ hr {
 .table-hover tbody tr:hover {
   background-color: rgba(31, 182, 166, 0.08) !important;
 }
+
+/* Login page button */
+.btn-login,
+.page-card .btn-primary {
+  background-color: #1FB6A6 !important;
+  border-color: #1FB6A6 !important;
+  color: #fff !important;
+}
+.btn-login:hover {
+  background-color: #17998B !important;
+  border-color: #17998B !important;
+}
