@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <defs>
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0B1F3A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1FB6A6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" 
+        font-family="Georgia, 'Times New Roman', serif" 
+        font-size="36" 
+        font-weight="600" 
+        fill="url(#brandGradient)"
+        letter-spacing="0.5px">
+    Aurora Finance
+  </text>
+</svg>
